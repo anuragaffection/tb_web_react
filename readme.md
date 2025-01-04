@@ -1,5 +1,5 @@
 ## Tech Stack 
-- React
+- React withTypescript
 - Tailwind
 - React Query
 - Firebase
