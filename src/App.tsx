@@ -15,11 +15,13 @@ function App() {
 
   return (
     <>
-      {user ? (
+      {/* {user ? (
         <Home user={user} setUser={setUser} />
       ) : (
         <Login setUser={setUser} />
-      )}
+      )} */}
+
+      <div>Hello world</div>
     </>
   );
 }
